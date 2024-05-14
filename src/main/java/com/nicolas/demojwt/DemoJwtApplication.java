@@ -10,3 +10,16 @@ public class DemoJwtApplication {
 		SpringApplication.run(DemoJwtApplication.class, args);
 	}
 }
+// AGREGAR EN LA BASE DE DATOS
+// INSERT INTO role (name) VALUES ('ARTISTA');
+// INSERT INTO role (name) VALUES ('PRODUCTOR');
+
+// POSTMAN
+//{
+//		"username": "nicolas",
+//		"password": "123456",
+//		"firstname": "Nombre",
+//		"lastname": "Apellido",
+//		"country": "Argentina",
+//		"roles": ["PRODUCTOR"]
+//		}
